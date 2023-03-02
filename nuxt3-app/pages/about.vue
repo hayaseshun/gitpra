@@ -1,3 +1,3 @@
 <template>
-  <h1>service</h1>
+  <h1>sere</h1>
 </template>
