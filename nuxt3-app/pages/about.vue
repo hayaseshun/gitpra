@@ -1,5 +1,5 @@
 <template>
 <<<<<<< HEAD
-  <h1>sere</h1>
+  <h1>see</h1>
 =======
 </template>
