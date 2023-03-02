@@ -1,3 +1,3 @@
 <template>
-  <h1>Aboutです</h1>
+  <h1>sal</h1>
 </template>
